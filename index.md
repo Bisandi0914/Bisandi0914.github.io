@@ -1,8 +1,7 @@
 # Welcome to My Portfolio
 
-![Bisandi Lasanya](/assets/img/bisandi.jpg)
-
 Hello, I'm **Bisandi Lasanya**, a Biotechnology student at SLIIT. I attended **Ananda National College**, and I am passionate about biotechnology, research, and lab techniques. This portfolio showcases my academic journey, projects, and skills in biotechnology.
+<img src="bisandi.jpg" alt="Your Name" style="width:200px; height:auto;">
 
 
 ## About Me
