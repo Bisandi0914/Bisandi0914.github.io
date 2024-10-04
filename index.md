@@ -41,5 +41,7 @@ My name is Bisandi Lasanya, and I am a dedicated biotechnology student at SLIIT,
 - **Phone**: 076-1566116
 - **Email**: lasanyabisandi@gmail.com
 - **Address**: Thabagalla, Panirendawa
+- **GitHub**: [https://github.com/Bisandi0914](https://github.com/Bisandi0914)
+
 
 
