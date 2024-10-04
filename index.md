@@ -1,36 +1,32 @@
-# Welcome to My Portfolio
+# Bisandi Lasanya
 
-Hello, I'm **Bisandi Lasanya**, a Biotechnology student at SLIIT. I attended **Ananda National College**, and I am passionate about biotechnology, research, and lab techniques. This portfolio showcases my academic journey, projects, and skills in biotechnology.
-![Bisandi Lasanya](https://github.com/Bisandi0914/Bisandi0914.github.io/blob/main/bisandi.JPG)
+### Personal Statement
+My name is Bisandi Lasanya, and I am a dedicated biotechnology student at SLIIT, having previously studied at Ananda National College. I have a passion for understanding the molecular mechanisms that drive biological processes. My academic journey, paired with practical experiences and strong leadership qualities, has equipped me with the skills necessary to excel in research and innovation. I am eager to apply my knowledge in biotechnology to make meaningful contributions to scientific advancements.
+
+### Education
+- **Ordinary Level**: 9A passes
+- **Advanced Level**:
+  - Chemistry: C
+  - Biology: C
+  - Physics: S
+
+### Skills
+- **Languages**:
+  - English
+  - Sinhala
+  - Tamil
+  - French
+
+- **Core Skills**:
+  - Communication skills
+  - Problem-solving
+  - Time management
+  - Leadership
+
+### Hobbies
+- Reading books
+- Hiking
+- Photography
+- Travelling
 
 
-
-## About Me
-I am currently pursuing a BSc Hons in Biotechnology at SLIIT. Throughout my academic career, I have developed skills in molecular biology, microbiology, and bioinformatics. My interest in biotechnology drives me to explore innovative solutions for real-world challenges.
-
-## Education
-- **BSc Hons in Biotechnology** - SLIIT
-- **Ananda National College** - High School Education
-
-## Projects
-### Project 1: DNA Extraction
-This project involved isolating DNA from plant tissues using various extraction methods.
-
-**Techniques Used:**
-- Gel electrophoresis
-- PCR amplification
-
-![DNA Extraction](path-to-your-image.jpg)
-
-### Project 2: Microbial Growth Study
-In this project, I analyzed the effects of different nutrient media on bacterial growth.
-
-**Techniques Used:**
-- Agar plate streaking
-- Colony counting
-
-![Microbial Growth](path-to-your-image.jpg)
-
-## Contact
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your-email@example.com)
