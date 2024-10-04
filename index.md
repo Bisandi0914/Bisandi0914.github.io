@@ -24,10 +24,22 @@ My name is Bisandi Lasanya, and I am a dedicated biotechnology student at SLIIT,
   - Time management
   - Leadership
 
+    ### Extra Qualifications
+- Winner of Educational Zone Dancing Competition
+- Winner of Provincial Dancing Competition
+- Participated in All Island Dancing Competition
+- Junior Prefect (2011-2013)
+- Senior Prefect (2018-2019)
+
 ### Hobbies
 - Reading books
 - Hiking
 - Photography
 - Travelling
+
+  ### Contact Information
+- **Phone**: 076-1566116
+- **Email**: lasanyabisandi@gmail.com
+- **Address**: Thabagalla, Panirendawa
 
 
